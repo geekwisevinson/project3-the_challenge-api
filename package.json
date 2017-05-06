@@ -1,0 +1,27 @@
+{
+  "name": "project3-the_challenge",
+  "version": "1.0.0",
+  "description": "cms app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekwisevinson/project3-the_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekwisevinson/project3-the_challenge/issues"
+  },
+  "homepage": "https://github.com/geekwisevinson/project3-the_challenge#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  }
+}
